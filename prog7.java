@@ -30,6 +30,7 @@ public class prog7 {
     }
 } */
 
+
 import java.util.ArrayList;
 
 public class prog7 {
@@ -80,4 +81,7 @@ public class prog7 {
             System.out.print(i+" ");
         }
     }
-}
+} 
+
+
+
