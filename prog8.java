@@ -37,4 +37,4 @@ public class prog8 {
             System.out.print(i+" ");
         }
     }
-}
+} 
